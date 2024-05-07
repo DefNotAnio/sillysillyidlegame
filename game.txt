@@ -1,0 +1,11 @@
+Let's make a game!
+name:untitled yet
+author:Anio
+desc:eh
+created:6/5/2024
+updated:6/5/2024
+version:0.0.1
+
+Settings
+building cost increase: 110%
+building cost refund: 55%
