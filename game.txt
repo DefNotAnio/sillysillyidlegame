@@ -1,11 +1,23 @@
 Let's make a game!
-name:untitled yet
-author:Anio
-desc:eh
-created:6/5/2024
-updated:6/5/2024
-version:0.0.1
+    name:untitled yet
+    author:Anio
+    desc:eh
+    created:6/5/2024
+    updated:6/5/2024
+    version:0.0.1
 
 Settings
-building cost increase: 110%
-building cost refund: 55%
+    building cost increase: 110%
+    building cost refund: 55%
+
+Layout
+    *resources
+        contains:Resources
+        header:I mean, isn't it obvious?
+    *buildings
+        contains:Buildings
+        header:Build something something awesome
+        tooltip origin:left
+    *unlockables
+        contains:Upgrades, Achievements
+        names:hide
